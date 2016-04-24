@@ -43,6 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="classes\AdoTest.cs" />
+    <Compile Include="classes\CustomizedDataAdapter.cs" />
+    <Compile Include="classes\Serie.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
